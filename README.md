@@ -1,2 +1,2 @@
-# Main
-Description of my git
+# Welcome to Dustin Gitbut
+Let's check what Dustin is interested in
