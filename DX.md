@@ -15,3 +15,8 @@
 ### - 비정형 Data 
 
 ## 2)SCADA system : 데이터 수집장치들을 제어,감독하는 시스템
+
+## 3) Machine Learning 분류
+<img width="1203" height="646" alt="Image" src="https://github.com/user-attachments/assets/20f3e088-2689-4e77-b7d9-170ecac8942a" />
+## 4) Data Process
+<img width="1190" height="538" alt="Image" src="https://github.com/user-attachments/assets/c81f8aed-06ce-4c30-bc30-78c42afc0221" />
