@@ -2,6 +2,16 @@
 
 ## 1) Digitization : 아날로그 형태의 데이터를 디지털 형태로 변환 시키는 과정 
 ## 2) Digitalization : Digitization(Data)을 가지고 거기서 의미를 찾아내는 작업 
-### - 상황 인지 :무엇을 할 수 있는가/어떤 상태인가 - 회고(hindsight), 통찰(insight),예지(foresight),관리/감독(Oversight)
-### - 의사 결정 :목표 도달을 위한 방법(최적화 등...)
-## 3) Digital Transormation:
+### - 🥇 상황 인지 :무엇을 하고 있는가/어떤 상태인가 - 회고(hindsight), 통찰(insight),예지(foresight),관리/감독(Oversight)
+### - 🥈 의사 결정 :목표 도달을 위한 방법(최적화 등...) -예보(What's next),예측(What if),최적화(What's Best)
+## 3) Digital Transormation(DX):Data에서 가치를 찾고 Business을 변화 시키는 것  
+### - 조직문화 변경, Business변경 등에 해당 (Data Infra, AI가 필요 함)
+
+
+# 2. Data 과학
+
+## 1) 데이터 종류
+### - 정형 Data
+### - 비정형 Data 
+
+## 2)SCADA system : 데이터 수집장치들을 제어,감독하는 시스템
