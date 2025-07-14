@@ -24,7 +24,9 @@
 
 
 # 3. Python Module 대표적
+<img width="1442" height="558" alt="Image" src="https://github.com/user-attachments/assets/a0e20c93-d1c4-4642-ae08-fad618cab5d3" />
 
+<img width="949" height="553" alt="Image" src="https://github.com/user-attachments/assets/33f7cfbe-2b57-4970-a26e-927f1d34be6e" />
 
 # 4. DX 예시
 
